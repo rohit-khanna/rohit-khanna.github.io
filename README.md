@@ -1,6 +1,6 @@
 # Rohit Khanna
 
-## JS Full Stack Enthusiast | Aspiring Product Consultant
+### JS Full Stack Enthusiast | Aspiring Product Consultant
 
 [LinkedIn](https://in.linkedin.com/in/rohitkhanna1989) |
 [Email](mailto:therohitkhanna@live.com) | [Stack Overflow](https://stackoverflow.com/users/7306148/rohit-khanna) | [Github](https://github.com/rohit-khanna)
