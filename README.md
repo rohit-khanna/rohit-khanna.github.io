@@ -2,8 +2,8 @@
 
 ## JS Full Stack Enthusiast | Aspiring Product Consultant
 
-[LinkedIn](https://in.linkedin.com/in/rohitkhanna1989) &nbsp;| &nbsp;
-[Email](mailto:therohitkhanna@live.com)&nbsp; |&nbsp; [Stack Overflow](https://stackoverflow.com/users/7306148/rohit-khanna) &nbsp; | &nbsp; [Github](https://github.com/rohit-khanna)
+[LinkedIn](https://in.linkedin.com/in/rohitkhanna1989) |
+[Email](mailto:therohitkhanna@live.com) | [Stack Overflow](https://stackoverflow.com/users/7306148/rohit-khanna) | [Github](https://github.com/rohit-khanna)
 
 With over 9 years of professional experience and last 3 years as JS Full stack Developer/Lead, I have matured as a full stack solution provider. I am part of various POC's at work and enjoy experimenting around with new technologies.
 
