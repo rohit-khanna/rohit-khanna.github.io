@@ -41,7 +41,7 @@ This Pattern _Controls_ the creation process. Some patterns in this category:
 - Factory / Abstract
 - Builder
 - Prototype
-- SIngleton
+- **Singleton**
 - **Module**
 - **Revealing Module**
 

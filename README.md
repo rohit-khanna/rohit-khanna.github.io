@@ -9,7 +9,7 @@ With over 9 years of professional experience and last 3 years as JS Full stack D
 
 I love whiteboarding and documentation. :-) .
 
-### <ins>Profesional Journey</ins>
+### <ins>Professional Journey</ins>
 
 After Graduating from IPU,Delhi (BTech-CS-2007-2011), I Started as .Net Winforms Developer , learnt and delivered solutions on .Net Platform with ASP.Net, MVC, WCF, AngularJS, Angular , Hybrid Mobile Apps, NodeJS and now leading the front end team in ReactJS.
 
