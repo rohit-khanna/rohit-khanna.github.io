@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Observer Pattern</title>
+    <script src="./subject.js" defer></script>
+    <script src="./index.js" defer></script>
+
+
+
+    <style>
+        #timeNow-data {
+            color: red;
+        }
+
+        .observerList {
+            margin-top: 1rem;
+        }
+
+        input[type='checkbox'] {
+            padding: 0.25rem 0.25rem;
+        }
+
+        .data {
+            color: red;
+        }
+    </style>
+</head>
+
+<body>
+    <div>
+        Initial Observer: <span id="timeNow-data"></span>
+    </div>
+    <div class="observerList">
+        New Observers:
+        <br>
+        <div>
+            <input type="checkbox" id="observer1" name="Observer-1">
+            <label for="observer1">Observer-1</label>
+            <span class="data" id="observer1-data"></span>
+        </div>
+        <div>
+            <input type="checkbox" id="observer2" name="Observer-2">
+            <label for="observer2">Observer-2</label>
+            <span class="data" id="observer2-data"></span>
+
+        </div>
+        <div>
+            <input type="checkbox" id="observer3" name="Observer-3">
+            <label for="observer3">Observer-3</label>
+            <span class="data" id="observer3-data"></span>
+
+        </div>
+    </div>
+
+</body>
+
+</html>
