@@ -61,11 +61,11 @@ Some patterns in this category:
 
 Focus on the way, the different objects communicate/behave with each other. Some patterns in this category:
 
-- Mediator
+- **Mediator**
 - **Observer**
 - Visitor
 - Iterator
 - Chain Of Responsibility
-- Command
+- **Command**
 - Momento
 - Strategy
