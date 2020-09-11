@@ -50,7 +50,7 @@ This Pattern _Controls_ the creation process. Some patterns in this category:
 Focus on the the way the _relationships_ are maintained between different objects.This ensures when one part of the system changes, the other part shouldn't need a corresponding change.
 Some patterns in this category:
 
-- Facade
+- **Facade**
 - Decorator
 - Adapter
 - Proxy
