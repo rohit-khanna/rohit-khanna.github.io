@@ -38,7 +38,7 @@ Focus on the the way the objects are created. A different way of object creation
 This Pattern _Controls_ the creation process. Some patterns in this category:
 
 - Constructor
-- Factory / Abstract
+- **Factory** / Abstract
 - Builder
 - Prototype
 - **Singleton**
