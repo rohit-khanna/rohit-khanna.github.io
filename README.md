@@ -1,17 +1,16 @@
 # Rohit Khanna
 
-### JS Full Stack Enthusiast | Aspiring Product Consultant
+### JS Polyglot Developer | Aspiring Product Consultant
 
-[LinkedIn](https://in.linkedin.com/in/rohitkhanna1989) |
-[Email](mailto:therohitkhanna@live.com) | [Stack Overflow](https://stackoverflow.com/users/7306148/rohit-khanna) | [Github](https://github.com/rohit-khanna)
+[LinkedIn](https://in.linkedin.com/in/rohitkhanna1989) | [Email](mailto:therohitkhanna@live.com) | [Stack Overflow](https://stackoverflow.com/users/7306148/rohit-khanna) | [Github](https://github.com/rohit-khanna)
 
 With over 9 years of professional experience and last 3 years as JS Full stack Developer/Lead, I have matured as a full stack solution provider. I am part of various POC's at work and enjoy experimenting around with new technologies.
 
-I love whiteboarding and documentation. :-) .
+I love whiteboarding , documentation and have a knack for System Design.
 
 ### <ins>Professional Journey</ins>
 
-After Graduating from IPU,Delhi (BTech-CS-2007-2011), I Started as .Net Winforms Developer , learnt and delivered solutions on .Net Platform with ASP.Net, MVC, WCF, AngularJS, Angular , Hybrid Mobile Apps, NodeJS and now leading the front end team in ReactJS.
+After Graduating from IPU,Delhi (BTech-CS-2007-2011), I Started as .Net Winforms Developer , learnt and delivered solutions on .Net Platform with ASP.Net, MVC, WCF, AngularJS, Angular , Hybrid Mobile Apps, NodeJS and now leading the front end team in **ReactJS**.
 
 I have imparted trainings and acted as Mentor/Coach at my workplace.
 
