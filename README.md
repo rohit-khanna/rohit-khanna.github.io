@@ -4,7 +4,7 @@
 
 [LinkedIn](https://in.linkedin.com/in/rohitkhanna1989) | [Email](mailto:therohitkhanna@live.com) | [Stack Overflow](https://stackoverflow.com/users/7306148/rohit-khanna) | [Github](https://github.com/rohit-khanna)
 
-With over 9 years of professional experience and last 3 years as JS Full stack Developer/Lead, I have matured as a full stack solution provider. I am part of various POC's at work and enjoy experimenting around with new technologies.
+With over 11 years of professional experience and last 4 years as JS Full stack Developer/Lead, I have matured as a full stack solution provider. I am part of various POC's at work and enjoy experimenting around with new technologies.
 
 I love whiteboarding , documentation and have a knack for System Design.
 
@@ -16,7 +16,7 @@ I have imparted trainings and acted as Mentor/Coach at my workplace.
 
 **Domain**: Delivered projects in Airline, Banking, Government, Financial Services, Consulting.
 
-**Geographies**: Have worked in India (native), Singapore, UK and Belgium.
+**Geographies**: Have worked in India (native),US, Singapore, UK and Belgium.
 
 ## Few Projects/Codes/Concepts
 
